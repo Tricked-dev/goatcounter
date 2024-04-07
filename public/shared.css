@@ -40,7 +40,7 @@ a:hover code         { color: var(--link-hover); }
                        font: inherit; line-height: 1rem; display: inline; -moz-user-select: inherit; -webkit-appearance: none; }
 
 h1     { text-align: center; padding: .5em 0; font-size: 1.7em; }
-h2     { border-bottom: 1px solid var(--header-border); padding-bottom: .2em; font-size: 1.5em; }
+h2     { padding-bottom: .2em; font-size: 1.2em; }
 h3     { font-size: 1.3em; }
 h4     { font-size: 1.1em; }
 h5, h6 { font-size: 1em; }
